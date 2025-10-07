@@ -1,7 +1,5 @@
-## Hello!
-
-## I'm Vlad, an enthusiastic and mostly self-taught programmer
-## Currently working on [Bismuth](https://github.com/vld-b/Bismuth)
+# Hello!
+I'm Vlad, an enthusiastic and mostly self-taught programmer, currently working on [Bismuth](https://github.com/vld-b/Bismuth).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vld-b)](https://github.com/anuraghazra/github-readme-stats)
 
