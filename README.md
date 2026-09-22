@@ -1,7 +1,7 @@
 # Hello!
 I'm Vlad, an enthusiastic and mostly self-taught programmer, currently working on [Bismuth](https://github.com/vld-b/Bismuth).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vld-b)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=vld-b)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **vld-b/vld-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
